@@ -1,0 +1,20 @@
+Issues : 
+
+1 - Résoudre problème authentification (feature/authentification)
+2 - Résoudre problème chargement long planning (feature/planning)
+3 - Ameliorer ergonomie et esthétique (feature/interface)
+4 - Résoudre problème surchage serveur, ex : inscription speed-meeting (feature/surcharge)
+5 - Automatisation de l'ajout des offres de stages/alternances (feature/automatisation_offres)
+6 - Résoudre problemes lors de la saisie des notes (fix/saisie_notes)
+7 - Résoudre problème ajout de photo de profil lors de l'inscription (fix/photo_profil)
+8 - Mettre au point meilleur organisation des offres etudiantes (feature/organisation_offres)
+9 - Améliorer interfaces facturations sur l'espace professeur (feature/facturation)
+10 - Mettre au point outil fonctionnel pour faire l'appel sur MyGes.fr 
+
+
+
+
+
+
+
+README = Présentation du projet
