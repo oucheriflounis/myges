@@ -9,11 +9,12 @@ Issues :
 7 - Résoudre problème ajout de photo de profil lors de l'inscription (fix/photo_profil)
 8 - Mettre au point meilleur organisation des offres etudiantes (feature/organisation_offres)
 9 - Améliorer interfaces facturations sur l'espace professeur (feature/facturation)
-10 - Mettre au point outil fonctionnel pour faire l'appel sur MyGes.fr 
-
-
-
-
+10 - Mettre au point outil fonctionnel pour faire l'appel sur MyGes.fr (feature/appel) 
+11 - Rendre le site responsive (feature/responsive)
+12 - Création espace de travail (feature/espace_travail)
+13 - Résoudre l'affichage des mentions légales (fix/mentions_legales)
+14 - Création d'un espace réservé au aide pour les étudiants
+15 - Création d'un espace pour avoir les anciens examens et leurs corriger
 
 
 
