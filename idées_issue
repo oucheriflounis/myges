@@ -13,8 +13,8 @@ Issues :
 11 - Rendre le site responsive (feature/responsive)
 12 - Création espace de travail (feature/espace_travail)
 13 - Résoudre l'affichage des mentions légales (fix/mentions_legales)
-14 - Création d'un espace réservé au aide pour les étudiants
-15 - Création d'un espace pour avoir les anciens examens et leurs corriger
+14 - Création d'un espace réservé au aide pour les étudiants (feature/espace_aide)
+15 - Création d'un espace pour avoir les anciens examens et leurs corriger (feature/espace_revision)
 
 
 
