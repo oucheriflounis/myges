@@ -34,7 +34,7 @@ Vous pouvez utiliser GitBash qui est très simple d'utilisation pour faire du gi
 
 ** Tu souhaites proposer une nouvelle fonctionnalité ? **
 Vous avez une idée de fonctionnalité pour la plateforme myges.fr? N'hésitez pas à la proposer aux membres de l'ESGI !
-Pour cela, la première chose à faire est de vérifier que cette idée n'a pas déjà été proposée. Allez sur la liste des issues du projet et recherchez si votre idée n'a pas déjà été proposée. Si c'est le cas et qu'elle n'a pas été acceptée, vous comprendrez probablement pourquoi, et si c'est le cas mais qu'elle est en cours de développement, vous pourrez apporter votre opinion sur le sujet en commentant sur l'issue.
+Pour cela, la première chose à faire est de vérifier que cette idée n'Ma pas déjà été proposée. Allez sur la liste des issues du projet et recherchez si votre idée n'a pas déjà été proposée. Si c'est le cas et qu'elle n'a pas été acceptée, vous comprendrez probablement pourquoi, et si c'est le cas mais qu'elle est en cours de développement, vous pourrez apporter votre opinion sur le sujet en commentant sur l'issue.
 Si votre idée n'a jamais été proposée, alors n'hésitez pas à la proposer. Pour cela, créez une nouvelle issue en décrivant votre idée.
 
 
