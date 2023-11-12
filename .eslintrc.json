@@ -9,5 +9,6 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+        "no-undef": "error"  // Ajout de la règle pour détecter les variables non définies
     }
 }
