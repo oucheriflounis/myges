@@ -1,3 +1,7 @@
 *.log
 *.swp
+vendor/
+lib_JS/
+bootstrap/
+fich_JSON/
 *~
